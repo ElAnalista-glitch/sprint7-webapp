@@ -19,3 +19,7 @@ Esta es una aplicación web interactiva desarrollada con **Python** y **Streamli
 - pandas
 - plotly.express
 
+Puedes acceder a la aplicación desplegada en Render aquí:  
+
+[https://sprint7-webapp.onrender.com](https://sprint7-webapp.onrender.com)
+
