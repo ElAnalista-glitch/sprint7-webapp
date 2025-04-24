@@ -9,8 +9,8 @@ st.header("Exploración de Vehículos Usados")
 
 
 # Leer archivo CSV
-car_data = pd.read_csv('C:/Users/irvin/Desktop/Escritorio/Mochilero/certificadoDataAnalyst/sprint7-webapp/vehicles_us.csv')
-
+#car_data = pd.read_csv('C:/Users/irvin/Desktop/Escritorio/Mochilero/certificadoDataAnalyst/sprint7-webapp/vehicles_us.csv')
+car_data = pd.read_csv('vehicles_us.csv')
 
 # Mostrar una vista previa de los datos
 st.write("Vista previa de los datos:")
